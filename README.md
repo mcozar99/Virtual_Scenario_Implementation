@@ -1,10 +1,11 @@
 # Deployment of a virtual scenario based on virtual disk images
-##Miguel Cozar Tramblin 
-##Luis Castejon Lozano
+
+**Miguel Cozar Tramblin**
+**Luis Castejon Lozano**
 
 
 If you are looking for help
-###python pc1.py help
+**python pc1.py help**
 
 
 Modify 'directorio' variable to make it work properly
